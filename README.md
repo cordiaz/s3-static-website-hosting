@@ -1,4 +1,4 @@
-## Membuat static Web menggunakan AWS S3
+## Membuat static website menggunakan AWS S3
 
 ### Setting S3
 - membeli sebuah domain, misalnya: awanera.com
@@ -32,4 +32,5 @@
 - pilih record name set: service.awanera.com
 - klik test record set
 - klik get response, perhatikan bagian DNS response code: NOERROR. Artinya setting DNS sudah berhasil.
+- kunjungi http://service.awanera.com, mestinya akan tampil ini dari file index.html
 - selesai
